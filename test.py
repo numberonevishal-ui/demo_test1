@@ -1,4 +1,4 @@
 x = 6
 y = 7
-z = x+y
+z = x-y
 print(z)
